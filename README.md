@@ -1,7 +1,7 @@
 # isdc-2d-histogram-filter-cpp
 ISDC Project - Implementing a 2D Histogram Filter using C++
 
-In this project, I've translated the 2D histogram filter which was imnplemented in Python to C++.
+In this project, I've translated the 2D histogram filter which was implemented in Python to C++.
 
 This project includes the following files:
 
